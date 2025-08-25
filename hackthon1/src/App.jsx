@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState } from 'react'
 
-import './App.css'
+
 
 function App() {
   const [count, setCount] = useState(0)
@@ -9,6 +9,7 @@ function App() {
   return (
    <>
    <h1 className="bg-amber-950">hello</h1>
+   <button className="bg-blue-500">Button A</button>
    </>
      
   )
