@@ -10,6 +10,7 @@ function App() {
    <>
    <h1 className="bg-amber-950">hello</h1>
    <button className="bg-blue-500">Button A</button>
+    <button className="bg-red-500">Button B</button>
    </>
      
   )
